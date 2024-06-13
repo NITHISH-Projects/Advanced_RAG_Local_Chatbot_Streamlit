@@ -1,0 +1,8 @@
+langchain-nomic
+langchain_community  
+chromadb 
+langchain 
+gpt4all
+sqlalchemy
+pypdf
+streamlit
